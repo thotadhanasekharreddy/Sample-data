@@ -1,0 +1,47 @@
+[
+    {
+        "id": "JFK",
+        "airportCode": "{\"airportCode\": \"JFK\",\"airportName\":\"JOHN F. KENNEDY\",\"countryCode\":\"US\",\"portCode\": \"7453\",\"updateTimestamp\": \"2022-05-15T12:45:21.789123\"}",
+        "_rid": "Q+IRAKbbVIMBAAAAAAAAAB==",
+        "_self": "dbs/Q+IRAA==/ colls/Q+IRAKbbVIM=/docs/Q+IRAKbbVIMBAAAAAAAAAB==/",
+        "_etag": "\"a30017d6-0000-0700-0000-76543b2c0000\"",
+        "_attachments": "attachments/",
+        "_ts": 1698900560
+    },
+    {
+        "id": "LHR",
+        "airportCode": "{\"airportCode\": \"LHR\",\"airportName\":\"LONDON HEATHROW\",\"countryCode\":\"GB\",\"portCode\": \"4829\",\"updateTimestamp\": \"2022-08-20T09:22:15.654321\"}",
+        "_rid": "Q+IRAKbbVIMBAAAAAAAAAC==",
+        "_self": "dbs/Q+IRAA==/ colls/Q+IRAKbbVIM=/docs/Q+IRAKbbVIMBAAAAAAAAAC==/",
+        "_etag": "\"a30017d6-0000-0700-0000-87654c3d0000\"",
+        "_attachments": "attachments/",
+        "_ts": 1698900562
+    },
+    {
+        "id": "CDG",
+        "airportCode": "{\"airportCode\": \"CDG\",\"airportName\":\"CHARLES DE GAULLE\",\"countryCode\":\"FR\",\"portCode\": \"5312\",\"updateTimestamp\": \"2022-11-10T15:30:45.987654\"}",
+        "_rid": "Q+IRAKbbVIMBAAAAAAAAAD==",
+        "_self": "dbs/Q+IRAA==/ colls/Q+IRAKbbVIM=/docs/Q+IRAKbbVIMBAAAAAAAAAD==/",
+        "_etag": "\"a30017d6-0000-0700-0000-98765d4e0000\"",
+        "_attachments": "attachments/",
+        "_ts": 1698900564
+    },
+    {
+        "id": "SYD",
+        "airportCode": "{\"airportCode\": \"SYD\",\"airportName\":\"SYDNEY KINGSFORD SMITH\",\"countryCode\":\"AU\",\"portCode\": \"6235\",\"updateTimestamp\": \"2023-02-28T18:10:30.123456\"}",
+        "_rid": "Q+IRAKbbVIMBAAAAAAAAAE==",
+        "_self": "dbs/Q+IRAA==/ colls/Q+IRAKbbVIM=/docs/Q+IRAKbbVIMBAAAAAAAAAE==/",
+        "_etag": "\"a30017d6-0000-0700-0000-a8765e5f0000\"",
+        "_attachments": "attachments/",
+        "_ts": 1698900566
+    },
+    {
+        "id": "HND",
+        "airportCode": "{\"airportCode\": \"HND\",\"airportName\":\"TOKYO HANEDA\",\"countryCode\":\"JP\",\"portCode\": \"9248\",\"updateTimestamp\": \"2023-06-05T08:55:12.345678\"}",
+        "_rid": "Q+IRAKbbVIMBAAAAAAAAAF==",
+        "_self": "dbs/Q+IRAA==/ colls/Q+IRAKbbVIM=/docs/Q+IRAKbbVIMBAAAAAAAAAF==/",
+        "_etag": "\"a30017d6-0000-0700-0000-b9876f7a0000\"",
+        "_attachments": "attachments/",
+        "_ts": 1698900568
+    }
+]
