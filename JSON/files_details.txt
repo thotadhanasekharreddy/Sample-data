@@ -1,0 +1,13 @@
+sample1--single line json 1 record
+sample1a-- multi line json 1 record
+sample1b-- multi line json multiple records
+sample1c-- multi line json multiple records assigned to 1 value
+
+
+sample2a--basic nested json data{}- we can directly access it.
+sample2b--basic nested json data[]- To split into multiple records explode it.
+sample2c--nested json data[]{}- both above
+
+
+
+sample2d--getItem()

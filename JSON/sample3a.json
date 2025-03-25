@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "John",
+        "details": {
+            "age": 30,
+            "address": {
+                "city": "New York",
+                "state": "NY"
+            },
+            "contacts": [
+                {
+                    "type": "email",
+                    "value": "john@example.com"
+                },
+                {
+                    "type": "phone",
+                    "value": "123-456-7890"
+                }
+            ]
+        }
+    },
+    {
+        "id": 2,
+        "name": "Jane",
+        "details": {
+            "age": 25,
+            "address": {
+                "city": "Los Angeles",
+                "state": "CA"
+            },
+            "contacts": [
+                {
+                    "type": "email", "value": "jane@example.com"},
+                {
+                    "type": "phone",
+                    "value": "987-654-3210"
+                }
+            ]
+        }
+    }
+]
